@@ -8,4 +8,4 @@ hi, im subo 🔮.
 # 📖 reverse engineering, computer science
 ```
 ------
-[jewdev](https://github.com/subxmi)
+[Subxmi](https://github.com/subxmi)
