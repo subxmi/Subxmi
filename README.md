@@ -1,13 +1,11 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-hi, im jd 🔮.
+hi, im subo 🔮.
 @@advanced programming student.@@
-+ living in tel aviv, israel.
-- 17 years old
-! program engineer, web developer and shitposter
++ living in brooklyn,NY
+! program engineer, web developer ai & blockchain enthusiast
 # 📖 reverse engineering, computer science
 ```
 ------
-[jewdev](https://github.com/jewdev)
-Last Edited on: 03/09/2021
+[jewdev](https://github.com/subxmi)
