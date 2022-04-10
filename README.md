@@ -8,4 +8,3 @@
 # 📖  computer science,ai & blockchain
 ```
 ------
-[Subxmi](https://github.com/subxmi)
