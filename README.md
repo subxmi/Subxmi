@@ -5,7 +5,7 @@
 @@advanced programming student.@@
 + living in brooklyn,NY
 ! program engineer, web developer ai & blockchain enthusiast
-# 📖  computer science. ai & blockchai
+# 📖  computer science. ai & blockchain
 ```
 ------
 [Subxmi](https://github.com/subxmi)
