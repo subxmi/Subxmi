@@ -5,6 +5,6 @@
 @@advanced programming student.@@
 + living in brooklyn,NY
 ! program engineer, web developer ai & blockchain enthusiast
-# 📖  computer science,ai & blockchain
+# 📖  machine learning,space,ai & blockchain
 ```
 ------
